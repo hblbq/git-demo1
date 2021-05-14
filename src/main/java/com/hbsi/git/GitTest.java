@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("git Test4444");
         System.out.println("git Test6666666666");
         System.out.println("git Test5555");
+        System.out.println("push remote test");
 
     }
 }
